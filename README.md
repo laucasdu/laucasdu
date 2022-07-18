@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋, I'm Laura Castillo</h1>
-<h3 align="left">A design graphic graduate who's transitioning into Software Engineering. I am currently exploring the Front-End and Back-End end of the web, looking forward to absorb knowledge and gain experience! ⚡🧠⚡</h3>
+<h3 align="left">A design graphic graduate who's transitioning into Software Engineering.</h3>
+<h3 align="left">I am currently exploring the Front-End and Back-End of the web, looking forward to absorb know ledge and gain experience!</h3>
 
-- 🔭 I’m currently working on **Working on improve my TDD skills**
+- 🔭 I’m currently working on **improve my TDD skills**
 
-- 🌱 I’m currently learning **Learning Spring Boot & Java**
+- 🌱 I’m currently learning **Spring Boot & Java**
 
 - 💬 Ask me about **html, .css, .react I'm happy to help**
 
