@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on improve my TDD skills**
 
-- 🌱 I’m currently learning **Spring Boot & Java**
+- 🌱 I’m learning **Spring Boot & Java**
 
 - 📫 How to reach me **lauracasdu@gmail.com**
 
