@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Laura Castillo</h1>
+<h1 align="left">Hi! 😊</h1>
+<h1 align="left">I'm Laura Castillo</h1>
 <h3 align="left">A design graphic graduate who's transitioning into Software Engineering.</h3>
 <h3 align="left">I am currently exploring the Front-End and Back-End of the web, looking forward to absorb know ledge and gain experience!</h3>
 
