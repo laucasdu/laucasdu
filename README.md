@@ -1,5 +1,8 @@
+![Github banner](https://user-images.githubusercontent.com/102957525/179713552-e6f6b2fb-efe8-405f-99c1-99ee8ffcfcd9.png)
+
 <h1 align="left">Hi 😊 
 <h1>I'm Laura Castillo</h1>
+
 <h3 align="left">A design graphic graduate who's transitioning into Software Engineering. I am currently exploring the Front-End and Back-End end of the web, looking forward to absorb knowledge and gain experience!</h3>
 
 👨🏻‍💻 - Programming Languages: HTML - CSS - HTML - JAVASCRIPT - JAVA
