@@ -6,7 +6,7 @@
 
 👨🏻‍💻 Programming Languages: HTML - CSS - HTML - JAVASCRIPT - JAVA
 
-- Frameworks: React - SPRINTBOOT
+- Frameworks: React - Spring Boot
 - Agile methodologies
 - Principles of clean code
 - Test-driven Development (TDD)
