@@ -12,7 +12,6 @@
 - Test-driven Development (TDD)
 - Object Oriented Programming (OOP)
 - Version control: GIT, GITHUB
-- Project management and development
 
 📫 How to reach me **lauracasdu@gmail.com**
 
