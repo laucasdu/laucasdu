@@ -2,11 +2,11 @@
 
 <h1 align="left">Hi, I'm Laura Castillo 😊</h1>
 
-<h3 align="left">A design graphic graduate who's transitioning into Software Engineering. I am currently exploring the Front-End and Back-End end of the web, looking forward to absorb knowledge and gain experience!</h3>
+<h3 align="left">A design graphic graduate who's transitioning into Software Engineering. Actually, I studying a Web Developer Full Stack Bootcamp at Factoria F5 (Barcelona).</h3>
 
-👨🏻‍💻 Programming Languages: HTML - CSS - HTML - JAVASCRIPT - JAVA
-
-- Frameworks: React - Spring Boot
+- Front-End: HTML5 · CSS3 · JavaScript ES6 · React · Styled Components · Axios · Atomic & 
+ Responsive Design · UX/UI Design
+- Back-End: Java · Spring Boot · JPA · JUnit Mockito · H2 Hibernate · MySql · Postman
 - Agile methodologies
 - Principles of clean code
 - Test-driven Development (TDD)
