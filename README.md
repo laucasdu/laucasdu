@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, My name is Laura Castillo 😊</h1>
 
-<h3 align="left">I'm a Full-Stack junior developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector. At the bootcamp I have done different projects both in group and individual .</h3>
+<h3 align="left">I'm a Full-Stack junior developer, with training in a Full-Stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector. At the bootcamp I have done different projects both in group and individual .</h3>
 
 - Front-End: HTML · CSS · JavaScript · React.js · Styled Components · Axios · Atomic & Responsive Design · UX/UI Design
 - Back-End: Java · Spring Boot · JPA · JUnit Mockito · H2 Hibernate · SQL · Postman
