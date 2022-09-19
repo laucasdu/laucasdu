@@ -1,17 +1,18 @@
 ![Github banner](https://user-images.githubusercontent.com/102957525/179713552-e6f6b2fb-efe8-405f-99c1-99ee8ffcfcd9.png)
 
-<h1 align="left">Hi, I'm Laura Castillo 😊</h1>
+<h1 align="left">Hi, My name is Laura Castillo 😊</h1>
 
-<h3 align="left">A design graphic graduate who's transitioning into Software Engineering. Actually, I studying a Web Developer Full Stack Bootcamp at Factoria F5 (Barcelona).</h3>
+<h3 align="left">I'm a Full-Stack junior developer, with training in a full-stack bootcamp of 850h. I am also a graphic designer and illustrator with experience in the sector. At the bootcamp I have done different projects both in group and individual .</h3>
 
-- Front-End: HTML5 · CSS3 · JavaScript ES6 · React · Styled Components · Axios · Atomic & 
- Responsive Design · UX/UI Design
-- Back-End: Java · Spring Boot · JPA · JUnit Mockito · H2 Hibernate · MySql · Postman
+- Front-End: HTML · CSS · JavaScript · React.js · Styled Components · Axios · Atomic & Responsive Design · UX/UI Design
+- Back-End: Java · Spring Boot · JPA · JUnit Mockito · H2 Hibernate · SQL · Postman
 - Agile methodologies
 - Principles of clean code
 - Test-driven Development (TDD)
 - Object Oriented Programming (OOP)
 - Version control: GIT, GITHUB
+
+I am a responsible and hardworking person, eager to learn and take on new challenges.
 
 📫 How to reach me **lauracasdu@gmail.com**
 
